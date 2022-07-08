@@ -3,6 +3,7 @@
     "displayName": "Ice Blue Dark",
     "description": "A VS Code Colorscheme dedicated to people who like ice and the color blue.",
     "version": "1.0.0",
+    "icon": "IceBlue.png",
     "engines": {
         "vscode": "^1.69.0"
     },
