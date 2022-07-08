@@ -3,6 +3,7 @@
     "displayName": "Ice Blue Dark",
     "description": "A VS Code Colorscheme dedicated to people who like ice and the color blue.",
     "version": "1.0.0",
+     "publisher": "sudofinn",
     "icon": "IceBlue.png",
     "engines": {
         "vscode": "^1.69.0"
@@ -10,6 +11,10 @@
     "categories": [
         "Themes"
     ],
+      "repository": {
+        "type": "git",
+        "url": "https://github.com/sudofinn/Ice-Blue-vscode-colorscheme"
+    },
      "keywords": [
         "Theme",
         "Blue",
