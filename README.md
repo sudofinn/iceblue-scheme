@@ -4,7 +4,9 @@ This is a blue colorscheme for VS code. 🧊
 It uses blue colors to emphasize the cold and dark feeling ( and it is also good for coding in winter). 🥶
 
 ## Snapshots
-
+![First](IceBlue1.jpg?raw=true)
+![First](IceBlue2.jpg?raw=true)
+![First](IceBlue3.jpg?raw=true)
 
 
 ## Find
