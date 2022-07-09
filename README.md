@@ -1,7 +1,7 @@
 # Ice Blue Dark Color Theme
 ## About
-This is a red colorscheme for VS code.
-It uses blue colors to emphasize the cold and dark feeling ( and it is also good for coding in winter).
+This is a blue colorscheme for VS code. 🧊
+It uses blue colors to emphasize the cold and dark feeling ( and it is also good for coding in winter). 🥶
 
 ## Snapshots
 
@@ -9,5 +9,5 @@ It uses blue colors to emphasize the cold and dark feeling ( and it is also good
 
 ## Find
 This extension is available on the VS code marketplace.
-You can find and install it under ....
+You can find and install it under https://marketplace.visualstudio.com/items?itemName=sudofinn.ice-blue-dark
 Or you can maybe also  search for " Ice Blue Dark" directly in Vs code and you will see the theme.🐢
